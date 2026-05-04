@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Santhosh 
 
-<!--
-**JavSanthosh/JavSanthosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer with 1year experience in Computer Vision and Generative AI systems.
 
-Here are some ideas to get you started:
+##  Skills
+- Python, Machine Learning, Deep Learning
+- YOLO, OpenCV, TensorFlow
+- GenAI,LangChain, CrewAI, LLMs
+- FastAPI
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+- PPE Detection using YOLO (Computer Vision)
+- AI Agent-Based Sentiment Analysis (GenAI)
+- House Price Prediction (Regression)
+
+##  Experience
+AI/ML Engineer @ Frandzzo Technologies  
+- Built real-time PPE detection system  
+- Developed GenAI sentiment analysis pipelines  
+
+##  Contact
+- Email: yadavsanthosh64@gmail.com
+- LinkedIn: https://www.linkedin.com/in/santhosh-yadav-javvaji-4879b228a/
