@@ -1,24 +1,32 @@
-# Hi, I'm Santhosh 
+# Javvaji Santhosh Yadav — AI/ML Engineer
 
-AI/ML Engineer with 1year experience in Computer Vision and Generative AI systems.
+🔭 Currently building: Multi-Agent AI systems & RAG pipelines  
+🛠 Stack: LangChain · LangGraph · FastAPI · ChromaDB · Docker · Python  
+📍 Hyderabad | Open to AI/ML Opportunities  
+📫 yadavsanthosh64@gmail.com  
 
-##  Skills
-- Python, Machine Learning, Deep Learning
-- YOLO, OpenCV, TensorFlow
-- GenAI,LangChain, CrewAI, LLMs
-- FastAPI
-- MySQL
+---
 
-##  Projects
-- PPE Detection using YOLO (Computer Vision)
-- AI Agent-Based Sentiment Analysis (GenAI)
-- House Price Prediction (Regression)
+## 🚀 Featured Projects
 
-##  Experience
-AI/ML Engineer @ Frandzzo Technologies  
-- Built real-time PPE detection system  
-- Developed GenAI sentiment analysis pipelines  
+| Project | Tech | Status |
+|--------|------|--------|
+| [Multi-Agent RAG Platform](#) | LangChain · LangGraph · ChromaDB · FastAPI · Docker | 🔨 In Progress |
+| [AI Workflow Orchestration + MCP](#) | LangGraph · MCP · Pinecone · Redis · Celery | 🔨 In Progress |
+| [PPE Detection System](https://github.com/JavSanthosh/PPE-Detection) | YOLOv11 · OpenCV · Roboflow · FastAPI | ✅ Complete |
 
-##  Contact
-- Email: yadavsanthosh64@gmail.com
-- LinkedIn: https://www.linkedin.com/in/santhosh-yadav-javvaji-4879b228a/
+---
+
+## 🛠 Skills
+
+**Generative AI** → LangChain · LangGraph · RAG · Multi-Agent AI · CrewAI  
+**LLM APIs** → OpenAI · Claude · Gemini · Prompt Engineering · Tool Calling · MCP  
+**Vector DBs** → Pinecone · FAISS · ChromaDB · Qdrant  
+**Infra** → FastAPI · Docker · Redis · Celery · MySQL  
+**ML/CV** → Python · YOLO · OpenCV · TensorFlow · Scikit-learn  
+
+---
+
+## 💼 Experience
+**AI/ML Engineer** @ Frandzzo Technologies *(Mar 2025 – Present)*  
+**Data Science Consultant** @ Rubixe AI Solutions *(Jul 2023 – Jan 2024)*
