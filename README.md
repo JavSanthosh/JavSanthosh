@@ -2,7 +2,7 @@
 
 🔭 Currently building: Multi-Agent AI systems & RAG pipelines  
 🛠 Stack: LangChain · LangGraph · FastAPI · ChromaDB · Docker · Python  
-📍 Hyderabad | Open to AI/ML Opportunities  
+📍 Hyderabad,India | Open to AI/ML Opportunities | Ready to relocate
 📫 yadavsanthosh64@gmail.com  
 
 ---
