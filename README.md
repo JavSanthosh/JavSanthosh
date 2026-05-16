@@ -12,7 +12,7 @@
 
 | Project | Tech | Status |
 |--------|------|--------|
-| [RAG Platform](#) | LangChain · RAG · ChromaDB · FastAPI · Docker | ✅ Complete |
+| [RAG Platform](#https://github.com/JavSanthosh/rag-document-intelligence-platform) | LangChain · RAG · ChromaDB · FastAPI · Docker | ✅ Complete |
 | [AI Workflow Orchestration + MCP](#) | LangGraph · MCP · Pinecone · Redis · Celery | 🔨 In Progress |
 
 ---
