@@ -12,9 +12,8 @@
 
 | Project | Tech | Status |
 |--------|------|--------|
-| [Multi-Agent RAG Platform](#) | LangChain · LangGraph · ChromaDB · FastAPI · Docker | 🔨 In Progress |
+| [RAG Platform](#) | LangChain · RAG · ChromaDB · FastAPI · Docker | ✅ Complete |
 | [AI Workflow Orchestration + MCP](#) | LangGraph · MCP · Pinecone · Redis · Celery | 🔨 In Progress |
-| [PPE Detection System](https://github.com/JavSanthosh/PPE-Detection) | YOLOv11 · OpenCV · Roboflow · FastAPI | ✅ Complete |
 
 ---
 
