@@ -1,7 +1,7 @@
 # Javvaji Santhosh Yadav — AI/ML Engineer
 
-🔭 Currently building: Multi-Agent AI systems 
-🛠 Stack: LangChain · LangGraph · FastAPI · ChromaDB · Docker · Python | RAG pipelines 
+🔭 Currently building: Multi-Agent AI systems   
+🛠 Stack: LangChain · LangGraph · FastAPI · ChromaDB · Docker · Python | RAG pipelines   
 📍 Hyderabad,India | Open to AI/ML Opportunities | Ready to relocate
 
 📫 yadavsanthosh64@gmail.com  
