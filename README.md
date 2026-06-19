@@ -28,5 +28,5 @@
 ---
 
 ## 💼 Experience
-**AI/ML Engineer** @ Frandzzo Technologies *(Mar 2025 – Present)*  
+**AI/ML Engineer** @ Frandzzo Technologies *(Mar 2025 – May 2026)*    
 **Data Science Consultant** @ Rubixe AI Solutions *(Jul 2023 – Jan 2024)*
